@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: 
-Sitemap: https://test-62951.com/sitemap.xml
